@@ -10,5 +10,5 @@ def mul(a, b):
 def div(a, b):
     return a // b
 
-# 연산
+# 니가 나를 모르는데 난들 너를 알겠느냐
 
